@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **mohitxya/mohitxya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋  
+
+🚀 **Interests:**  
+- 🤖 Deep Learning  
+- ⚙️ Low-Level Programming (C, Assembly)  
+- 🏗️ Digital Design (CPUs, GPUs, FPGAs)  
+
+📫 **How to reach me:**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohitxya/)  
+- 🛠️ [GitHub](https://github.com/mohitxya/)  
+
+🔍 Always exploring new tech!  
+
