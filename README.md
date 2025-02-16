@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🚀 **Interests:**  
 - 🤖 Deep Learning  
-- ⚙️ Low-Level Programming (C, Assembly)  
+- ⚙️ Low-Level Programming  
 - 🏗️ Digital Design (CPUs, GPUs, FPGAs)  
 
 📫 **How to reach me:**  
