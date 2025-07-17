@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋  
+## Hi there   
 
-🚀 **Interests:**  
-- 🤖 Deep Learning  
-- ⚙️ Low-Level Programming  
-- 🏗️ Digital Design (CPUs, GPUs, FPGAs)  
+ **Interests:**  
+-  Deep Learning  
+-  Low-Level Programming  
+-  Digital Design (CPUs, GPUs, FPGAs)  
 
-📫 **How to reach me:**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohitxya/)  
-- 🛠️ [GitHub](https://github.com/mohitxya/)  
+ **How to reach me:**  
+-  [LinkedIn](https://www.linkedin.com/in/mohitxya/)  
+-  [GitHub](https://github.com/mohitxya/)  
 
 
