@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 -  [LinkedIn](https://www.linkedin.com/in/mohitxya/)  
 -  [GitHub](https://github.com/mohitxya/)  
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mohitxya)
+[![Profile Views](https://komarev.com/ghpvc/?username=mohitxya&style=for-the-badge&color=000000)](https://github.com/mohitxya)
 
 
