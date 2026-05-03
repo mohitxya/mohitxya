@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 -  [LinkedIn](https://www.linkedin.com/in/mohitxya/)  
 -  [GitHub](https://github.com/mohitxya/)  
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mohitxya)
 
 
