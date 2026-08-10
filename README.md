@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  **Interests:**  
--  Deep Learning  
+-  Deep Learning; with a focus on systems.
+-  Inference   
 -  Low-Level Programming  
 -  Digital Design (CPUs, GPUs, FPGAs)  
 
